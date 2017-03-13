@@ -1,5 +1,8 @@
 _repo: Flametti-oder-vom-Dandysmus-der-Armen_2889
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Ball, Hugo
@@ -9,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1063
     wikipedia: http://en.wikipedia.org/wiki/Hugo_Ball
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/2889#Flametti-oder-vom-Dandysmus-der-Armen
 gutenberg_bookshelf: DE Prosa
 gutenberg_issued: '2001-10-01'
 gutenberg_type: Text
