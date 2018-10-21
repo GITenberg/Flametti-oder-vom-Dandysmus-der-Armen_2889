@@ -1,5 +1,5 @@
 _repo: Flametti-oder-vom-Dandysmus-der-Armen_2889
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -26,5 +26,6 @@ rights_url: http://creativecommons.org/about/pdm
 subjects:
 - !lcc 'PT'
 - !lcsh 'Switzerland -- Fiction'
+- GITenberg
 title: 'Flametti: oder vom Dandysmus der Armen'
 url: http://www.gutenberg.org/ebooks/2889
